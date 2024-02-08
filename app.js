@@ -19,4 +19,3 @@ mongoose.connect("mongodb+srv://Anagha123:anagha123@cluster0.8e1jiqb.mongodb.net
 app.listen(3001,()=>{
     console.log("server running")
 })
-...
